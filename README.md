@@ -8,7 +8,7 @@ I highly encourage you to try it if you haven't done it yet 😊
 
 * [Code Wars](https://www.codewars.com/)
 
-Each exercise will consist on a JS file, with the name and description on the top. I will be uploading the different solutions I come up with, as well as the official best voted solution available. 
+Each exercise will consist of a JS file, with the name and description on the top. I will be uploading the different solutions I come up with, as well as the official best voted solution available. 
 
 In some cases, I will add comments that I have found useful to help me understand some of the steps. 
 
