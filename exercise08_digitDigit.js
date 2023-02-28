@@ -14,10 +14,16 @@ Happy Coding!
 */
 
 
-
 //SOLUTION 01
 function squareDigits(num) {
   return parseInt(num.toString().split('').map(num => num * num).join(''));
+}
+
+
+//SOLUTION 02
+
+function squareDigits(num) {
+  return parseInt(String(num).split('').map(num => num * num).join(''));
 }
 
 
