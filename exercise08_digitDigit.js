@@ -1,6 +1,7 @@
 //Digit*Digit
 
 //Description
+
 /*
 Welcome. In this kata, you are asked to square every digit of a number and concatenate them.
 

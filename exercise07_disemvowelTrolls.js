@@ -1,5 +1,7 @@
 //Disemvowel Trolls
 
+//Description
+
 /*
 Trolls are attacking your comment section!
 
@@ -11,7 +13,6 @@ For example, the string "This website is for losers LOL!" would become "Ths wbst
 
 Note: for this kata y isn't considered a vowel.
 */
-
 
 
 //SOLUTION 01
@@ -41,7 +42,6 @@ function disemvowel(str) {
 function disemvowel(str) {
     return str.replace(/[aeiou]/gi, '');
 }
-
 
 
 //USEFUL INFORMATION
